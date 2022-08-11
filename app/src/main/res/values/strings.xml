@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountdownTimer</string>
+    <string name="timer_setting">Timer steht auf %d s</string>
+    <string name="time_format_string">HH:mm:ss</string>
+    <string name="time_picker_dialog_title">Wählen Sie eine Zielzeit</string>
+    <string name="dialog_dismiss">Abbruch</string>
+    <string name="dialog_OK">OK</string>
+
+</resources>
